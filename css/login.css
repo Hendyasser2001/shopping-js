@@ -1,0 +1,46 @@
+body{
+    background-color:rgb(241, 245, 250);
+}
+.container{
+
+margin:150px auto;
+
+
+
+}
+.form1 {
+    padding: 10px;
+    max-width: 500px;
+    max-height: 500px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     
+}
+
+input[type=text],
+input[type=password] {
+    height: 50px;
+    padding: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    background-color: aliceblue;
+    color: blue;
+    border: solid rgb(35, 149, 29);
+
+}
+.btn{
+    padding: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px; 
+    width: 200px;
+
+}
+h1{
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.bt{
+    background-color: rgb(35, 149, 29);
+}
